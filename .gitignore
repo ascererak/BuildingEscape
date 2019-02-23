@@ -1,0 +1,16 @@
+/Binaries
+/Content/StarterContent/Textures
+/Content/StarterContent/HDRI
+/Content/scifi_kitbash
+/DerivedDataChache
+/Intermediate
+/Saved
+/.vs
+
+/.vs/BuildingEscape/v15/Browse.VC.db
+/.vs/BuildingEscape/v15/Browse.VC.opendb
+/.vs/BuildingEscape/v15/Solution.VC.db
+/.vs/BuildingEscape/v15/Solution.VC.db-shm
+/.vs/BuildingEscape/v15/Solution.VC.db-wal
+/.vs/BuildingEscape/v15/.suo
+*.ipch
